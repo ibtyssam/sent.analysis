@@ -51,7 +51,7 @@ Le notebook suit globalement ce workflow:
 
 ## Sortie Visuelle (Screen)
 
-Distribution des classes dans le dataset (capture extraite des outputs du notebook):
+Distribution des classes dans le dataset:
 
 ![Distribution des sentiments IMDB](docs/screenshots/sentiment_distribution.png)
 
